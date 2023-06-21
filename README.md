@@ -4,7 +4,7 @@ Kafka 一款是基于磁盘顺序读写,支持批处理的消息队列。
 
 官方地址:  <http://kafka.apache.org/>
 
-中文社区: <http://kafka.apachecn.org/> 
+中文社区: <http://kafka.flygon.net/> 
 
 1.0-client-demo: <https://github.com/mikechengwei/kafka-demo/>
 
@@ -51,13 +51,13 @@ kafka 技术交流 QQ 群: 733847341
 
 ## 加入我们
 
-如果想要加入我们, 请参阅: <http://www.apachecn.org/organization/209.html>.  
+如果想要加入我们, 请参阅: <http://www.flygon.net/organization/209.html>.  
 欢迎各位爱装逼的大佬们.
 
 ## 建议反馈
 
 *  联系项目负责人 [@mikechengwei](https://github.com/mikechengwei).
 *  在我们的 [apachecn/kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh) github 上提 issue.
-*  发邮件送到 Email: kafka#apachecn.org（#替换成@）.
-*  在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
+*  发邮件送到 Email: kafka#flygon.net（#替换成@）.
+*  在我们的 [组织学习交流群](http://www.flygon.net/organization/348.html) 中联系群主/管理员即可.
 
